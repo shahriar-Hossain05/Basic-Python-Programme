@@ -1,0 +1,11 @@
+noun1 = input("Enter a party name: ")
+verb1 = input("Enter a verb: ")
+noun2 = input("Enter a persons name: ")
+adj1 = input("Enter a adjective: ")
+verb2 = input("Enter a verb: ")
+verb3 = input("Enter a verb: ")
+
+print(f"Today I went to {noun1} party!!")
+print(f"Chill atmosphere, everybody {verb1} up, had fun, you know?")
+print(f"I met {noun2}. He was very {adj1}, so he {verb2} me up.")
+print(f"I came back home {verb3}.")
